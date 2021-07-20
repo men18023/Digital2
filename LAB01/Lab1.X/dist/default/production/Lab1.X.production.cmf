@@ -11,7 +11,7 @@
 # All addresses and the length are given in unqualified hexadecimal
 # in delta units.  Any other numeric values are decimal.
 %PSECTS
-$C:\Users\jonam\AppData\Local\Temp\sjds.o
+$C:\Users\jonam\AppData\Local\Temp\sa0g.o
 reset_vec CODE 0 0 0 3 2
 end_init CODE 0 E E 3 2
 config CONFIG 4 2007 2007 2 2
@@ -80,143 +80,143 @@ STRING 163-1FFF 2
 # All other numeric values are in decimal.
 %LINETAB
 $dist/default/production\Lab1.X.production.o
-11 cinit CODE >836:C:\Users\jonam\AppData\Local\Temp\sjds.s
-11 cinit CODE >839:C:\Users\jonam\AppData\Local\Temp\sjds.s
-11 cinit CODE >892:C:\Users\jonam\AppData\Local\Temp\sjds.s
-12 cinit CODE >893:C:\Users\jonam\AppData\Local\Temp\sjds.s
-13 cinit CODE >894:C:\Users\jonam\AppData\Local\Temp\sjds.s
-14 cinit CODE >895:C:\Users\jonam\AppData\Local\Temp\sjds.s
-15 cinit CODE >896:C:\Users\jonam\AppData\Local\Temp\sjds.s
-16 cinit CODE >897:C:\Users\jonam\AppData\Local\Temp\sjds.s
-17 cinit CODE >898:C:\Users\jonam\AppData\Local\Temp\sjds.s
-18 cinit CODE >899:C:\Users\jonam\AppData\Local\Temp\sjds.s
-19 cinit CODE >900:C:\Users\jonam\AppData\Local\Temp\sjds.s
-1A cinit CODE >901:C:\Users\jonam\AppData\Local\Temp\sjds.s
-1F cinit CODE >905:C:\Users\jonam\AppData\Local\Temp\sjds.s
-20 cinit CODE >906:C:\Users\jonam\AppData\Local\Temp\sjds.s
-21 cinit CODE >907:C:\Users\jonam\AppData\Local\Temp\sjds.s
-22 cinit CODE >908:C:\Users\jonam\AppData\Local\Temp\sjds.s
-23 cinit CODE >914:C:\Users\jonam\AppData\Local\Temp\sjds.s
-23 cinit CODE >916:C:\Users\jonam\AppData\Local\Temp\sjds.s
-24 cinit CODE >917:C:\Users\jonam\AppData\Local\Temp\sjds.s
-4 intentry CODE >43:C:\Users\jonam\OneDrive\Escritorio\7mo SEMESTRE\Digital 2\LAB01\Lab1.X\main1.c
-150 text7 CODE >11:C:\Users\jonam\OneDrive\Escritorio\7mo SEMESTRE\Digital 2\LAB01\Lab1.X\7seg.c
-151 text7 CODE >12:C:\Users\jonam\OneDrive\Escritorio\7mo SEMESTRE\Digital 2\LAB01\Lab1.X\7seg.c
-159 text7 CODE >13:C:\Users\jonam\OneDrive\Escritorio\7mo SEMESTRE\Digital 2\LAB01\Lab1.X\7seg.c
-15A text7 CODE >14:C:\Users\jonam\OneDrive\Escritorio\7mo SEMESTRE\Digital 2\LAB01\Lab1.X\7seg.c
-15F text6 CODE >7:C:\Users\jonam\OneDrive\Escritorio\7mo SEMESTRE\Digital 2\LAB01\Lab1.X\ADC.c
-15F text6 CODE >9:C:\Users\jonam\OneDrive\Escritorio\7mo SEMESTRE\Digital 2\LAB01\Lab1.X\ADC.c
-162 text6 CODE >10:C:\Users\jonam\OneDrive\Escritorio\7mo SEMESTRE\Digital 2\LAB01\Lab1.X\ADC.c
-27 text5 CODE >43:C:\Users\jonam\OneDrive\Escritorio\7mo SEMESTRE\Digital 2\LAB01\Lab1.X\main1.c
-27 text5 CODE >45:C:\Users\jonam\OneDrive\Escritorio\7mo SEMESTRE\Digital 2\LAB01\Lab1.X\main1.c
-2B text5 CODE >46:C:\Users\jonam\OneDrive\Escritorio\7mo SEMESTRE\Digital 2\LAB01\Lab1.X\main1.c
-31 text5 CODE >48:C:\Users\jonam\OneDrive\Escritorio\7mo SEMESTRE\Digital 2\LAB01\Lab1.X\main1.c
-35 text5 CODE >50:C:\Users\jonam\OneDrive\Escritorio\7mo SEMESTRE\Digital 2\LAB01\Lab1.X\main1.c
-39 text5 CODE >52:C:\Users\jonam\OneDrive\Escritorio\7mo SEMESTRE\Digital 2\LAB01\Lab1.X\main1.c
-3B text5 CODE >54:C:\Users\jonam\OneDrive\Escritorio\7mo SEMESTRE\Digital 2\LAB01\Lab1.X\main1.c
-3C text5 CODE >57:C:\Users\jonam\OneDrive\Escritorio\7mo SEMESTRE\Digital 2\LAB01\Lab1.X\main1.c
-40 text5 CODE >58:C:\Users\jonam\OneDrive\Escritorio\7mo SEMESTRE\Digital 2\LAB01\Lab1.X\main1.c
-46 text5 CODE >60:C:\Users\jonam\OneDrive\Escritorio\7mo SEMESTRE\Digital 2\LAB01\Lab1.X\main1.c
-49 text5 CODE >61:C:\Users\jonam\OneDrive\Escritorio\7mo SEMESTRE\Digital 2\LAB01\Lab1.X\main1.c
-4A text5 CODE >62:C:\Users\jonam\OneDrive\Escritorio\7mo SEMESTRE\Digital 2\LAB01\Lab1.X\main1.c
-4B text5 CODE >63:C:\Users\jonam\OneDrive\Escritorio\7mo SEMESTRE\Digital 2\LAB01\Lab1.X\main1.c
-54 text5 CODE >64:C:\Users\jonam\OneDrive\Escritorio\7mo SEMESTRE\Digital 2\LAB01\Lab1.X\main1.c
-58 text5 CODE >65:C:\Users\jonam\OneDrive\Escritorio\7mo SEMESTRE\Digital 2\LAB01\Lab1.X\main1.c
-59 text5 CODE >67:C:\Users\jonam\OneDrive\Escritorio\7mo SEMESTRE\Digital 2\LAB01\Lab1.X\main1.c
-5F text5 CODE >69:C:\Users\jonam\OneDrive\Escritorio\7mo SEMESTRE\Digital 2\LAB01\Lab1.X\main1.c
-62 text5 CODE >70:C:\Users\jonam\OneDrive\Escritorio\7mo SEMESTRE\Digital 2\LAB01\Lab1.X\main1.c
-63 text5 CODE >71:C:\Users\jonam\OneDrive\Escritorio\7mo SEMESTRE\Digital 2\LAB01\Lab1.X\main1.c
-64 text5 CODE >72:C:\Users\jonam\OneDrive\Escritorio\7mo SEMESTRE\Digital 2\LAB01\Lab1.X\main1.c
-6D text5 CODE >73:C:\Users\jonam\OneDrive\Escritorio\7mo SEMESTRE\Digital 2\LAB01\Lab1.X\main1.c
-6F text5 CODE >75:C:\Users\jonam\OneDrive\Escritorio\7mo SEMESTRE\Digital 2\LAB01\Lab1.X\main1.c
-70 text5 CODE >76:C:\Users\jonam\OneDrive\Escritorio\7mo SEMESTRE\Digital 2\LAB01\Lab1.X\main1.c
-74 text5 CODE >79:C:\Users\jonam\OneDrive\Escritorio\7mo SEMESTRE\Digital 2\LAB01\Lab1.X\main1.c
-7A text5 CODE >80:C:\Users\jonam\OneDrive\Escritorio\7mo SEMESTRE\Digital 2\LAB01\Lab1.X\main1.c
-83 text5 CODE >82:C:\Users\jonam\OneDrive\Escritorio\7mo SEMESTRE\Digital 2\LAB01\Lab1.X\main1.c
-8B text5 CODE >84:C:\Users\jonam\OneDrive\Escritorio\7mo SEMESTRE\Digital 2\LAB01\Lab1.X\main1.c
-90 text5 CODE >85:C:\Users\jonam\OneDrive\Escritorio\7mo SEMESTRE\Digital 2\LAB01\Lab1.X\main1.c
-93 text5 CODE >87:C:\Users\jonam\OneDrive\Escritorio\7mo SEMESTRE\Digital 2\LAB01\Lab1.X\main1.c
-143 text4 CODE >11:C:\Users\jonam\OneDrive\Escritorio\7mo SEMESTRE\Digital 2\LAB01\Lab1.X\ADC.c
-143 text4 CODE >13:C:\Users\jonam\OneDrive\Escritorio\7mo SEMESTRE\Digital 2\LAB01\Lab1.X\ADC.c
-147 text4 CODE >14:C:\Users\jonam\OneDrive\Escritorio\7mo SEMESTRE\Digital 2\LAB01\Lab1.X\ADC.c
-148 text4 CODE >15:C:\Users\jonam\OneDrive\Escritorio\7mo SEMESTRE\Digital 2\LAB01\Lab1.X\ADC.c
-149 text4 CODE >16:C:\Users\jonam\OneDrive\Escritorio\7mo SEMESTRE\Digital 2\LAB01\Lab1.X\ADC.c
-14A text4 CODE >18:C:\Users\jonam\OneDrive\Escritorio\7mo SEMESTRE\Digital 2\LAB01\Lab1.X\ADC.c
-14D text4 CODE >19:C:\Users\jonam\OneDrive\Escritorio\7mo SEMESTRE\Digital 2\LAB01\Lab1.X\ADC.c
-14E text4 CODE >20:C:\Users\jonam\OneDrive\Escritorio\7mo SEMESTRE\Digital 2\LAB01\Lab1.X\ADC.c
-14F text4 CODE >21:C:\Users\jonam\OneDrive\Escritorio\7mo SEMESTRE\Digital 2\LAB01\Lab1.X\ADC.c
-9C text3 CODE >106:C:\Users\jonam\OneDrive\Escritorio\7mo SEMESTRE\Digital 2\LAB01\Lab1.X\main1.c
-9C text3 CODE >108:C:\Users\jonam\OneDrive\Escritorio\7mo SEMESTRE\Digital 2\LAB01\Lab1.X\main1.c
-A0 text3 CODE >109:C:\Users\jonam\OneDrive\Escritorio\7mo SEMESTRE\Digital 2\LAB01\Lab1.X\main1.c
-A1 text3 CODE >111:C:\Users\jonam\OneDrive\Escritorio\7mo SEMESTRE\Digital 2\LAB01\Lab1.X\main1.c
-A4 text3 CODE >112:C:\Users\jonam\OneDrive\Escritorio\7mo SEMESTRE\Digital 2\LAB01\Lab1.X\main1.c
-A5 text3 CODE >113:C:\Users\jonam\OneDrive\Escritorio\7mo SEMESTRE\Digital 2\LAB01\Lab1.X\main1.c
-A6 text3 CODE >114:C:\Users\jonam\OneDrive\Escritorio\7mo SEMESTRE\Digital 2\LAB01\Lab1.X\main1.c
-A7 text3 CODE >115:C:\Users\jonam\OneDrive\Escritorio\7mo SEMESTRE\Digital 2\LAB01\Lab1.X\main1.c
-A8 text3 CODE >116:C:\Users\jonam\OneDrive\Escritorio\7mo SEMESTRE\Digital 2\LAB01\Lab1.X\main1.c
-A9 text3 CODE >117:C:\Users\jonam\OneDrive\Escritorio\7mo SEMESTRE\Digital 2\LAB01\Lab1.X\main1.c
-AA text3 CODE >119:C:\Users\jonam\OneDrive\Escritorio\7mo SEMESTRE\Digital 2\LAB01\Lab1.X\main1.c
-AD text3 CODE >120:C:\Users\jonam\OneDrive\Escritorio\7mo SEMESTRE\Digital 2\LAB01\Lab1.X\main1.c
-AE text3 CODE >121:C:\Users\jonam\OneDrive\Escritorio\7mo SEMESTRE\Digital 2\LAB01\Lab1.X\main1.c
-AF text3 CODE >122:C:\Users\jonam\OneDrive\Escritorio\7mo SEMESTRE\Digital 2\LAB01\Lab1.X\main1.c
-B0 text3 CODE >123:C:\Users\jonam\OneDrive\Escritorio\7mo SEMESTRE\Digital 2\LAB01\Lab1.X\main1.c
-B1 text3 CODE >125:C:\Users\jonam\OneDrive\Escritorio\7mo SEMESTRE\Digital 2\LAB01\Lab1.X\main1.c
-B4 text3 CODE >126:C:\Users\jonam\OneDrive\Escritorio\7mo SEMESTRE\Digital 2\LAB01\Lab1.X\main1.c
-B5 text3 CODE >127:C:\Users\jonam\OneDrive\Escritorio\7mo SEMESTRE\Digital 2\LAB01\Lab1.X\main1.c
-B6 text3 CODE >128:C:\Users\jonam\OneDrive\Escritorio\7mo SEMESTRE\Digital 2\LAB01\Lab1.X\main1.c
-B7 text3 CODE >130:C:\Users\jonam\OneDrive\Escritorio\7mo SEMESTRE\Digital 2\LAB01\Lab1.X\main1.c
-B8 text3 CODE >131:C:\Users\jonam\OneDrive\Escritorio\7mo SEMESTRE\Digital 2\LAB01\Lab1.X\main1.c
-B9 text3 CODE >132:C:\Users\jonam\OneDrive\Escritorio\7mo SEMESTRE\Digital 2\LAB01\Lab1.X\main1.c
-BA text3 CODE >133:C:\Users\jonam\OneDrive\Escritorio\7mo SEMESTRE\Digital 2\LAB01\Lab1.X\main1.c
-BB text3 CODE >134:C:\Users\jonam\OneDrive\Escritorio\7mo SEMESTRE\Digital 2\LAB01\Lab1.X\main1.c
-BC text3 CODE >136:C:\Users\jonam\OneDrive\Escritorio\7mo SEMESTRE\Digital 2\LAB01\Lab1.X\main1.c
-BD text3 CODE >137:C:\Users\jonam\OneDrive\Escritorio\7mo SEMESTRE\Digital 2\LAB01\Lab1.X\main1.c
-BF text3 CODE >138:C:\Users\jonam\OneDrive\Escritorio\7mo SEMESTRE\Digital 2\LAB01\Lab1.X\main1.c
-C0 text3 CODE >139:C:\Users\jonam\OneDrive\Escritorio\7mo SEMESTRE\Digital 2\LAB01\Lab1.X\main1.c
-C1 text3 CODE >141:C:\Users\jonam\OneDrive\Escritorio\7mo SEMESTRE\Digital 2\LAB01\Lab1.X\main1.c
-C6 text3 CODE >143:C:\Users\jonam\OneDrive\Escritorio\7mo SEMESTRE\Digital 2\LAB01\Lab1.X\main1.c
-C9 text3 CODE >144:C:\Users\jonam\OneDrive\Escritorio\7mo SEMESTRE\Digital 2\LAB01\Lab1.X\main1.c
-CC text3 CODE >145:C:\Users\jonam\OneDrive\Escritorio\7mo SEMESTRE\Digital 2\LAB01\Lab1.X\main1.c
-CD text3 CODE >146:C:\Users\jonam\OneDrive\Escritorio\7mo SEMESTRE\Digital 2\LAB01\Lab1.X\main1.c
-CE text3 CODE >148:C:\Users\jonam\OneDrive\Escritorio\7mo SEMESTRE\Digital 2\LAB01\Lab1.X\main1.c
-D1 text3 CODE >149:C:\Users\jonam\OneDrive\Escritorio\7mo SEMESTRE\Digital 2\LAB01\Lab1.X\main1.c
-D2 text3 CODE >150:C:\Users\jonam\OneDrive\Escritorio\7mo SEMESTRE\Digital 2\LAB01\Lab1.X\main1.c
-D3 text3 CODE >151:C:\Users\jonam\OneDrive\Escritorio\7mo SEMESTRE\Digital 2\LAB01\Lab1.X\main1.c
-D4 text3 CODE >152:C:\Users\jonam\OneDrive\Escritorio\7mo SEMESTRE\Digital 2\LAB01\Lab1.X\main1.c
-101 text2 CODE >153:C:\Users\jonam\OneDrive\Escritorio\7mo SEMESTRE\Digital 2\LAB01\Lab1.X\main1.c
-104 text2 CODE >156:C:\Users\jonam\OneDrive\Escritorio\7mo SEMESTRE\Digital 2\LAB01\Lab1.X\main1.c
-11E text2 CODE >157:C:\Users\jonam\OneDrive\Escritorio\7mo SEMESTRE\Digital 2\LAB01\Lab1.X\main1.c
-11F text2 CODE >158:C:\Users\jonam\OneDrive\Escritorio\7mo SEMESTRE\Digital 2\LAB01\Lab1.X\main1.c
-15B text1 CODE >7:C:\Users\jonam\OneDrive\Escritorio\7mo SEMESTRE\Digital 2\LAB01\Lab1.X\ADC.c
-15B text1 CODE >9:C:\Users\jonam\OneDrive\Escritorio\7mo SEMESTRE\Digital 2\LAB01\Lab1.X\ADC.c
-15E text1 CODE >10:C:\Users\jonam\OneDrive\Escritorio\7mo SEMESTRE\Digital 2\LAB01\Lab1.X\ADC.c
-D5 maintext CODE >89:C:\Users\jonam\OneDrive\Escritorio\7mo SEMESTRE\Digital 2\LAB01\Lab1.X\main1.c
-D5 maintext CODE >91:C:\Users\jonam\OneDrive\Escritorio\7mo SEMESTRE\Digital 2\LAB01\Lab1.X\main1.c
-DA maintext CODE >94:C:\Users\jonam\OneDrive\Escritorio\7mo SEMESTRE\Digital 2\LAB01\Lab1.X\main1.c
-DD maintext CODE >95:C:\Users\jonam\OneDrive\Escritorio\7mo SEMESTRE\Digital 2\LAB01\Lab1.X\main1.c
-E2 maintext CODE >96:C:\Users\jonam\OneDrive\Escritorio\7mo SEMESTRE\Digital 2\LAB01\Lab1.X\main1.c
-EE maintext CODE >97:C:\Users\jonam\OneDrive\Escritorio\7mo SEMESTRE\Digital 2\LAB01\Lab1.X\main1.c
-FA maintext CODE >99:C:\Users\jonam\OneDrive\Escritorio\7mo SEMESTRE\Digital 2\LAB01\Lab1.X\main1.c
-FB maintext CODE >100:C:\Users\jonam\OneDrive\Escritorio\7mo SEMESTRE\Digital 2\LAB01\Lab1.X\main1.c
-FC maintext CODE >101:C:\Users\jonam\OneDrive\Escritorio\7mo SEMESTRE\Digital 2\LAB01\Lab1.X\main1.c
-FC maintext CODE >102:C:\Users\jonam\OneDrive\Escritorio\7mo SEMESTRE\Digital 2\LAB01\Lab1.X\main1.c
-120 inittext CODE >866:C:\Users\jonam\AppData\Local\Temp\sjds.s
-120 inittext CODE >867:C:\Users\jonam\AppData\Local\Temp\sjds.s
-121 inittext CODE >868:C:\Users\jonam\AppData\Local\Temp\sjds.s
-122 inittext CODE >869:C:\Users\jonam\AppData\Local\Temp\sjds.s
-123 inittext CODE >870:C:\Users\jonam\AppData\Local\Temp\sjds.s
-124 inittext CODE >877:C:\Users\jonam\AppData\Local\Temp\sjds.s
-124 inittext CODE >878:C:\Users\jonam\AppData\Local\Temp\sjds.s
-129 inittext CODE >879:C:\Users\jonam\AppData\Local\Temp\sjds.s
-12A inittext CODE >880:C:\Users\jonam\AppData\Local\Temp\sjds.s
-12B inittext CODE >881:C:\Users\jonam\AppData\Local\Temp\sjds.s
-12C inittext CODE >882:C:\Users\jonam\AppData\Local\Temp\sjds.s
-12D inittext CODE >883:C:\Users\jonam\AppData\Local\Temp\sjds.s
-12E inittext CODE >884:C:\Users\jonam\AppData\Local\Temp\sjds.s
-12F inittext CODE >885:C:\Users\jonam\AppData\Local\Temp\sjds.s
-130 inittext CODE >886:C:\Users\jonam\AppData\Local\Temp\sjds.s
-131 inittext CODE >887:C:\Users\jonam\AppData\Local\Temp\sjds.s
-132 inittext CODE >888:C:\Users\jonam\AppData\Local\Temp\sjds.s
+11 cinit CODE >836:C:\Users\jonam\AppData\Local\Temp\sa0g.s
+11 cinit CODE >839:C:\Users\jonam\AppData\Local\Temp\sa0g.s
+11 cinit CODE >892:C:\Users\jonam\AppData\Local\Temp\sa0g.s
+12 cinit CODE >893:C:\Users\jonam\AppData\Local\Temp\sa0g.s
+13 cinit CODE >894:C:\Users\jonam\AppData\Local\Temp\sa0g.s
+14 cinit CODE >895:C:\Users\jonam\AppData\Local\Temp\sa0g.s
+15 cinit CODE >896:C:\Users\jonam\AppData\Local\Temp\sa0g.s
+16 cinit CODE >897:C:\Users\jonam\AppData\Local\Temp\sa0g.s
+17 cinit CODE >898:C:\Users\jonam\AppData\Local\Temp\sa0g.s
+18 cinit CODE >899:C:\Users\jonam\AppData\Local\Temp\sa0g.s
+19 cinit CODE >900:C:\Users\jonam\AppData\Local\Temp\sa0g.s
+1A cinit CODE >901:C:\Users\jonam\AppData\Local\Temp\sa0g.s
+1F cinit CODE >905:C:\Users\jonam\AppData\Local\Temp\sa0g.s
+20 cinit CODE >906:C:\Users\jonam\AppData\Local\Temp\sa0g.s
+21 cinit CODE >907:C:\Users\jonam\AppData\Local\Temp\sa0g.s
+22 cinit CODE >908:C:\Users\jonam\AppData\Local\Temp\sa0g.s
+23 cinit CODE >914:C:\Users\jonam\AppData\Local\Temp\sa0g.s
+23 cinit CODE >916:C:\Users\jonam\AppData\Local\Temp\sa0g.s
+24 cinit CODE >917:C:\Users\jonam\AppData\Local\Temp\sa0g.s
+4 intentry CODE >43:C:\Users\jonam\OneDrive\Escritorio\7mo SEMESTRE\Digital 2\Digital2\LAB01\Lab1.X\main1.c
+150 text7 CODE >11:C:\Users\jonam\OneDrive\Escritorio\7mo SEMESTRE\Digital 2\Digital2\LAB01\Lab1.X\7seg.c
+151 text7 CODE >12:C:\Users\jonam\OneDrive\Escritorio\7mo SEMESTRE\Digital 2\Digital2\LAB01\Lab1.X\7seg.c
+159 text7 CODE >13:C:\Users\jonam\OneDrive\Escritorio\7mo SEMESTRE\Digital 2\Digital2\LAB01\Lab1.X\7seg.c
+15A text7 CODE >14:C:\Users\jonam\OneDrive\Escritorio\7mo SEMESTRE\Digital 2\Digital2\LAB01\Lab1.X\7seg.c
+15F text6 CODE >7:C:\Users\jonam\OneDrive\Escritorio\7mo SEMESTRE\Digital 2\Digital2\LAB01\Lab1.X\ADC.c
+15F text6 CODE >9:C:\Users\jonam\OneDrive\Escritorio\7mo SEMESTRE\Digital 2\Digital2\LAB01\Lab1.X\ADC.c
+162 text6 CODE >10:C:\Users\jonam\OneDrive\Escritorio\7mo SEMESTRE\Digital 2\Digital2\LAB01\Lab1.X\ADC.c
+27 text5 CODE >43:C:\Users\jonam\OneDrive\Escritorio\7mo SEMESTRE\Digital 2\Digital2\LAB01\Lab1.X\main1.c
+27 text5 CODE >45:C:\Users\jonam\OneDrive\Escritorio\7mo SEMESTRE\Digital 2\Digital2\LAB01\Lab1.X\main1.c
+2B text5 CODE >46:C:\Users\jonam\OneDrive\Escritorio\7mo SEMESTRE\Digital 2\Digital2\LAB01\Lab1.X\main1.c
+31 text5 CODE >48:C:\Users\jonam\OneDrive\Escritorio\7mo SEMESTRE\Digital 2\Digital2\LAB01\Lab1.X\main1.c
+35 text5 CODE >50:C:\Users\jonam\OneDrive\Escritorio\7mo SEMESTRE\Digital 2\Digital2\LAB01\Lab1.X\main1.c
+39 text5 CODE >52:C:\Users\jonam\OneDrive\Escritorio\7mo SEMESTRE\Digital 2\Digital2\LAB01\Lab1.X\main1.c
+3B text5 CODE >54:C:\Users\jonam\OneDrive\Escritorio\7mo SEMESTRE\Digital 2\Digital2\LAB01\Lab1.X\main1.c
+3C text5 CODE >57:C:\Users\jonam\OneDrive\Escritorio\7mo SEMESTRE\Digital 2\Digital2\LAB01\Lab1.X\main1.c
+40 text5 CODE >58:C:\Users\jonam\OneDrive\Escritorio\7mo SEMESTRE\Digital 2\Digital2\LAB01\Lab1.X\main1.c
+46 text5 CODE >60:C:\Users\jonam\OneDrive\Escritorio\7mo SEMESTRE\Digital 2\Digital2\LAB01\Lab1.X\main1.c
+49 text5 CODE >61:C:\Users\jonam\OneDrive\Escritorio\7mo SEMESTRE\Digital 2\Digital2\LAB01\Lab1.X\main1.c
+4A text5 CODE >62:C:\Users\jonam\OneDrive\Escritorio\7mo SEMESTRE\Digital 2\Digital2\LAB01\Lab1.X\main1.c
+4B text5 CODE >63:C:\Users\jonam\OneDrive\Escritorio\7mo SEMESTRE\Digital 2\Digital2\LAB01\Lab1.X\main1.c
+54 text5 CODE >64:C:\Users\jonam\OneDrive\Escritorio\7mo SEMESTRE\Digital 2\Digital2\LAB01\Lab1.X\main1.c
+58 text5 CODE >65:C:\Users\jonam\OneDrive\Escritorio\7mo SEMESTRE\Digital 2\Digital2\LAB01\Lab1.X\main1.c
+59 text5 CODE >67:C:\Users\jonam\OneDrive\Escritorio\7mo SEMESTRE\Digital 2\Digital2\LAB01\Lab1.X\main1.c
+5F text5 CODE >69:C:\Users\jonam\OneDrive\Escritorio\7mo SEMESTRE\Digital 2\Digital2\LAB01\Lab1.X\main1.c
+62 text5 CODE >70:C:\Users\jonam\OneDrive\Escritorio\7mo SEMESTRE\Digital 2\Digital2\LAB01\Lab1.X\main1.c
+63 text5 CODE >71:C:\Users\jonam\OneDrive\Escritorio\7mo SEMESTRE\Digital 2\Digital2\LAB01\Lab1.X\main1.c
+64 text5 CODE >72:C:\Users\jonam\OneDrive\Escritorio\7mo SEMESTRE\Digital 2\Digital2\LAB01\Lab1.X\main1.c
+6D text5 CODE >73:C:\Users\jonam\OneDrive\Escritorio\7mo SEMESTRE\Digital 2\Digital2\LAB01\Lab1.X\main1.c
+6F text5 CODE >75:C:\Users\jonam\OneDrive\Escritorio\7mo SEMESTRE\Digital 2\Digital2\LAB01\Lab1.X\main1.c
+70 text5 CODE >76:C:\Users\jonam\OneDrive\Escritorio\7mo SEMESTRE\Digital 2\Digital2\LAB01\Lab1.X\main1.c
+74 text5 CODE >79:C:\Users\jonam\OneDrive\Escritorio\7mo SEMESTRE\Digital 2\Digital2\LAB01\Lab1.X\main1.c
+7A text5 CODE >80:C:\Users\jonam\OneDrive\Escritorio\7mo SEMESTRE\Digital 2\Digital2\LAB01\Lab1.X\main1.c
+83 text5 CODE >82:C:\Users\jonam\OneDrive\Escritorio\7mo SEMESTRE\Digital 2\Digital2\LAB01\Lab1.X\main1.c
+8B text5 CODE >84:C:\Users\jonam\OneDrive\Escritorio\7mo SEMESTRE\Digital 2\Digital2\LAB01\Lab1.X\main1.c
+90 text5 CODE >85:C:\Users\jonam\OneDrive\Escritorio\7mo SEMESTRE\Digital 2\Digital2\LAB01\Lab1.X\main1.c
+93 text5 CODE >87:C:\Users\jonam\OneDrive\Escritorio\7mo SEMESTRE\Digital 2\Digital2\LAB01\Lab1.X\main1.c
+143 text4 CODE >11:C:\Users\jonam\OneDrive\Escritorio\7mo SEMESTRE\Digital 2\Digital2\LAB01\Lab1.X\ADC.c
+143 text4 CODE >13:C:\Users\jonam\OneDrive\Escritorio\7mo SEMESTRE\Digital 2\Digital2\LAB01\Lab1.X\ADC.c
+147 text4 CODE >14:C:\Users\jonam\OneDrive\Escritorio\7mo SEMESTRE\Digital 2\Digital2\LAB01\Lab1.X\ADC.c
+148 text4 CODE >15:C:\Users\jonam\OneDrive\Escritorio\7mo SEMESTRE\Digital 2\Digital2\LAB01\Lab1.X\ADC.c
+149 text4 CODE >16:C:\Users\jonam\OneDrive\Escritorio\7mo SEMESTRE\Digital 2\Digital2\LAB01\Lab1.X\ADC.c
+14A text4 CODE >18:C:\Users\jonam\OneDrive\Escritorio\7mo SEMESTRE\Digital 2\Digital2\LAB01\Lab1.X\ADC.c
+14D text4 CODE >19:C:\Users\jonam\OneDrive\Escritorio\7mo SEMESTRE\Digital 2\Digital2\LAB01\Lab1.X\ADC.c
+14E text4 CODE >20:C:\Users\jonam\OneDrive\Escritorio\7mo SEMESTRE\Digital 2\Digital2\LAB01\Lab1.X\ADC.c
+14F text4 CODE >21:C:\Users\jonam\OneDrive\Escritorio\7mo SEMESTRE\Digital 2\Digital2\LAB01\Lab1.X\ADC.c
+9C text3 CODE >106:C:\Users\jonam\OneDrive\Escritorio\7mo SEMESTRE\Digital 2\Digital2\LAB01\Lab1.X\main1.c
+9C text3 CODE >108:C:\Users\jonam\OneDrive\Escritorio\7mo SEMESTRE\Digital 2\Digital2\LAB01\Lab1.X\main1.c
+A0 text3 CODE >109:C:\Users\jonam\OneDrive\Escritorio\7mo SEMESTRE\Digital 2\Digital2\LAB01\Lab1.X\main1.c
+A1 text3 CODE >111:C:\Users\jonam\OneDrive\Escritorio\7mo SEMESTRE\Digital 2\Digital2\LAB01\Lab1.X\main1.c
+A4 text3 CODE >112:C:\Users\jonam\OneDrive\Escritorio\7mo SEMESTRE\Digital 2\Digital2\LAB01\Lab1.X\main1.c
+A5 text3 CODE >113:C:\Users\jonam\OneDrive\Escritorio\7mo SEMESTRE\Digital 2\Digital2\LAB01\Lab1.X\main1.c
+A6 text3 CODE >114:C:\Users\jonam\OneDrive\Escritorio\7mo SEMESTRE\Digital 2\Digital2\LAB01\Lab1.X\main1.c
+A7 text3 CODE >115:C:\Users\jonam\OneDrive\Escritorio\7mo SEMESTRE\Digital 2\Digital2\LAB01\Lab1.X\main1.c
+A8 text3 CODE >116:C:\Users\jonam\OneDrive\Escritorio\7mo SEMESTRE\Digital 2\Digital2\LAB01\Lab1.X\main1.c
+A9 text3 CODE >117:C:\Users\jonam\OneDrive\Escritorio\7mo SEMESTRE\Digital 2\Digital2\LAB01\Lab1.X\main1.c
+AA text3 CODE >119:C:\Users\jonam\OneDrive\Escritorio\7mo SEMESTRE\Digital 2\Digital2\LAB01\Lab1.X\main1.c
+AD text3 CODE >120:C:\Users\jonam\OneDrive\Escritorio\7mo SEMESTRE\Digital 2\Digital2\LAB01\Lab1.X\main1.c
+AE text3 CODE >121:C:\Users\jonam\OneDrive\Escritorio\7mo SEMESTRE\Digital 2\Digital2\LAB01\Lab1.X\main1.c
+AF text3 CODE >122:C:\Users\jonam\OneDrive\Escritorio\7mo SEMESTRE\Digital 2\Digital2\LAB01\Lab1.X\main1.c
+B0 text3 CODE >123:C:\Users\jonam\OneDrive\Escritorio\7mo SEMESTRE\Digital 2\Digital2\LAB01\Lab1.X\main1.c
+B1 text3 CODE >125:C:\Users\jonam\OneDrive\Escritorio\7mo SEMESTRE\Digital 2\Digital2\LAB01\Lab1.X\main1.c
+B4 text3 CODE >126:C:\Users\jonam\OneDrive\Escritorio\7mo SEMESTRE\Digital 2\Digital2\LAB01\Lab1.X\main1.c
+B5 text3 CODE >127:C:\Users\jonam\OneDrive\Escritorio\7mo SEMESTRE\Digital 2\Digital2\LAB01\Lab1.X\main1.c
+B6 text3 CODE >128:C:\Users\jonam\OneDrive\Escritorio\7mo SEMESTRE\Digital 2\Digital2\LAB01\Lab1.X\main1.c
+B7 text3 CODE >130:C:\Users\jonam\OneDrive\Escritorio\7mo SEMESTRE\Digital 2\Digital2\LAB01\Lab1.X\main1.c
+B8 text3 CODE >131:C:\Users\jonam\OneDrive\Escritorio\7mo SEMESTRE\Digital 2\Digital2\LAB01\Lab1.X\main1.c
+B9 text3 CODE >132:C:\Users\jonam\OneDrive\Escritorio\7mo SEMESTRE\Digital 2\Digital2\LAB01\Lab1.X\main1.c
+BA text3 CODE >133:C:\Users\jonam\OneDrive\Escritorio\7mo SEMESTRE\Digital 2\Digital2\LAB01\Lab1.X\main1.c
+BB text3 CODE >134:C:\Users\jonam\OneDrive\Escritorio\7mo SEMESTRE\Digital 2\Digital2\LAB01\Lab1.X\main1.c
+BC text3 CODE >136:C:\Users\jonam\OneDrive\Escritorio\7mo SEMESTRE\Digital 2\Digital2\LAB01\Lab1.X\main1.c
+BD text3 CODE >137:C:\Users\jonam\OneDrive\Escritorio\7mo SEMESTRE\Digital 2\Digital2\LAB01\Lab1.X\main1.c
+BF text3 CODE >138:C:\Users\jonam\OneDrive\Escritorio\7mo SEMESTRE\Digital 2\Digital2\LAB01\Lab1.X\main1.c
+C0 text3 CODE >139:C:\Users\jonam\OneDrive\Escritorio\7mo SEMESTRE\Digital 2\Digital2\LAB01\Lab1.X\main1.c
+C1 text3 CODE >141:C:\Users\jonam\OneDrive\Escritorio\7mo SEMESTRE\Digital 2\Digital2\LAB01\Lab1.X\main1.c
+C6 text3 CODE >143:C:\Users\jonam\OneDrive\Escritorio\7mo SEMESTRE\Digital 2\Digital2\LAB01\Lab1.X\main1.c
+C9 text3 CODE >144:C:\Users\jonam\OneDrive\Escritorio\7mo SEMESTRE\Digital 2\Digital2\LAB01\Lab1.X\main1.c
+CC text3 CODE >145:C:\Users\jonam\OneDrive\Escritorio\7mo SEMESTRE\Digital 2\Digital2\LAB01\Lab1.X\main1.c
+CD text3 CODE >146:C:\Users\jonam\OneDrive\Escritorio\7mo SEMESTRE\Digital 2\Digital2\LAB01\Lab1.X\main1.c
+CE text3 CODE >148:C:\Users\jonam\OneDrive\Escritorio\7mo SEMESTRE\Digital 2\Digital2\LAB01\Lab1.X\main1.c
+D1 text3 CODE >149:C:\Users\jonam\OneDrive\Escritorio\7mo SEMESTRE\Digital 2\Digital2\LAB01\Lab1.X\main1.c
+D2 text3 CODE >150:C:\Users\jonam\OneDrive\Escritorio\7mo SEMESTRE\Digital 2\Digital2\LAB01\Lab1.X\main1.c
+D3 text3 CODE >151:C:\Users\jonam\OneDrive\Escritorio\7mo SEMESTRE\Digital 2\Digital2\LAB01\Lab1.X\main1.c
+D4 text3 CODE >152:C:\Users\jonam\OneDrive\Escritorio\7mo SEMESTRE\Digital 2\Digital2\LAB01\Lab1.X\main1.c
+101 text2 CODE >153:C:\Users\jonam\OneDrive\Escritorio\7mo SEMESTRE\Digital 2\Digital2\LAB01\Lab1.X\main1.c
+104 text2 CODE >156:C:\Users\jonam\OneDrive\Escritorio\7mo SEMESTRE\Digital 2\Digital2\LAB01\Lab1.X\main1.c
+11E text2 CODE >157:C:\Users\jonam\OneDrive\Escritorio\7mo SEMESTRE\Digital 2\Digital2\LAB01\Lab1.X\main1.c
+11F text2 CODE >158:C:\Users\jonam\OneDrive\Escritorio\7mo SEMESTRE\Digital 2\Digital2\LAB01\Lab1.X\main1.c
+15B text1 CODE >7:C:\Users\jonam\OneDrive\Escritorio\7mo SEMESTRE\Digital 2\Digital2\LAB01\Lab1.X\ADC.c
+15B text1 CODE >9:C:\Users\jonam\OneDrive\Escritorio\7mo SEMESTRE\Digital 2\Digital2\LAB01\Lab1.X\ADC.c
+15E text1 CODE >10:C:\Users\jonam\OneDrive\Escritorio\7mo SEMESTRE\Digital 2\Digital2\LAB01\Lab1.X\ADC.c
+D5 maintext CODE >89:C:\Users\jonam\OneDrive\Escritorio\7mo SEMESTRE\Digital 2\Digital2\LAB01\Lab1.X\main1.c
+D5 maintext CODE >91:C:\Users\jonam\OneDrive\Escritorio\7mo SEMESTRE\Digital 2\Digital2\LAB01\Lab1.X\main1.c
+DA maintext CODE >94:C:\Users\jonam\OneDrive\Escritorio\7mo SEMESTRE\Digital 2\Digital2\LAB01\Lab1.X\main1.c
+DD maintext CODE >95:C:\Users\jonam\OneDrive\Escritorio\7mo SEMESTRE\Digital 2\Digital2\LAB01\Lab1.X\main1.c
+E2 maintext CODE >96:C:\Users\jonam\OneDrive\Escritorio\7mo SEMESTRE\Digital 2\Digital2\LAB01\Lab1.X\main1.c
+EE maintext CODE >97:C:\Users\jonam\OneDrive\Escritorio\7mo SEMESTRE\Digital 2\Digital2\LAB01\Lab1.X\main1.c
+FA maintext CODE >99:C:\Users\jonam\OneDrive\Escritorio\7mo SEMESTRE\Digital 2\Digital2\LAB01\Lab1.X\main1.c
+FB maintext CODE >100:C:\Users\jonam\OneDrive\Escritorio\7mo SEMESTRE\Digital 2\Digital2\LAB01\Lab1.X\main1.c
+FC maintext CODE >101:C:\Users\jonam\OneDrive\Escritorio\7mo SEMESTRE\Digital 2\Digital2\LAB01\Lab1.X\main1.c
+FC maintext CODE >102:C:\Users\jonam\OneDrive\Escritorio\7mo SEMESTRE\Digital 2\Digital2\LAB01\Lab1.X\main1.c
+120 inittext CODE >866:C:\Users\jonam\AppData\Local\Temp\sa0g.s
+120 inittext CODE >867:C:\Users\jonam\AppData\Local\Temp\sa0g.s
+121 inittext CODE >868:C:\Users\jonam\AppData\Local\Temp\sa0g.s
+122 inittext CODE >869:C:\Users\jonam\AppData\Local\Temp\sa0g.s
+123 inittext CODE >870:C:\Users\jonam\AppData\Local\Temp\sa0g.s
+124 inittext CODE >877:C:\Users\jonam\AppData\Local\Temp\sa0g.s
+124 inittext CODE >878:C:\Users\jonam\AppData\Local\Temp\sa0g.s
+129 inittext CODE >879:C:\Users\jonam\AppData\Local\Temp\sa0g.s
+12A inittext CODE >880:C:\Users\jonam\AppData\Local\Temp\sa0g.s
+12B inittext CODE >881:C:\Users\jonam\AppData\Local\Temp\sa0g.s
+12C inittext CODE >882:C:\Users\jonam\AppData\Local\Temp\sa0g.s
+12D inittext CODE >883:C:\Users\jonam\AppData\Local\Temp\sa0g.s
+12E inittext CODE >884:C:\Users\jonam\AppData\Local\Temp\sa0g.s
+12F inittext CODE >885:C:\Users\jonam\AppData\Local\Temp\sa0g.s
+130 inittext CODE >886:C:\Users\jonam\AppData\Local\Temp\sa0g.s
+131 inittext CODE >887:C:\Users\jonam\AppData\Local\Temp\sa0g.s
+132 inittext CODE >888:C:\Users\jonam\AppData\Local\Temp\sa0g.s
 # %SYMTAB Section
 # An enumeration of all symbols in the program.
 # The beginning of the section is indicated by %SYMTAB.
@@ -245,25 +245,25 @@ _RBIF 58 0 ABS 0 - dist/default/production\Lab1.X.production.o
 _T0IF 5A 0 ABS 0 - dist/default/production\Lab1.X.production.o
 _TMR0 1 0 ABS 0 - dist/default/production\Lab1.X.production.o
 _WPUB 95 0 ABS 0 - dist/default/production\Lab1.X.production.o
-___sp 0 0 STACK 2 stack C:\Users\jonam\AppData\Local\Temp\sjds.o
+___sp 0 0 STACK 2 stack C:\Users\jonam\AppData\Local\Temp\sa0g.o
 _main 1AA 0 CODE 0 maintext dist/default/production\Lab1.X.production.o
 _nib1 7B 0 COMMON 1 nvCOMMON dist/default/production\Lab1.X.production.o
 _nib2 7A 0 COMMON 1 nvCOMMON dist/default/production\Lab1.X.production.o
 _trad 78 0 COMMON 1 bssCOMMON dist/default/production\Lab1.X.production.o
 btemp 7E 0 ABS 0 - dist/default/production\Lab1.X.production.o
-start 1C 0 CODE 0 init C:\Users\jonam\AppData\Local\Temp\sjds.o
+start 1C 0 CODE 0 init C:\Users\jonam\AppData\Local\Temp\sa0g.o
 __size_of_main 0 0 ABS 0 - dist/default/production\Lab1.X.production.o
 __HbssCOMMON 0 0 ABS 0 bssCOMMON -
 _OPTION_REGbits 81 0 ABS 0 - dist/default/production\Lab1.X.production.o
 __LidataBANK0 0 0 ABS 0 idataBANK0 -
 __Hpowerup 0 0 CODE 0 powerup -
 __LnvCOMMON 0 0 ABS 0 nvCOMMON -
-intlevel0 0 0 ENTRY 0 functab C:\Users\jonam\AppData\Local\Temp\sjds.o
-intlevel1 0 0 ENTRY 0 functab C:\Users\jonam\AppData\Local\Temp\sjds.o
-intlevel2 0 0 ENTRY 0 functab C:\Users\jonam\AppData\Local\Temp\sjds.o
-intlevel3 0 0 ENTRY 0 functab C:\Users\jonam\AppData\Local\Temp\sjds.o
-intlevel4 0 0 ENTRY 0 functab C:\Users\jonam\AppData\Local\Temp\sjds.o
-intlevel5 0 0 ENTRY 0 functab C:\Users\jonam\AppData\Local\Temp\sjds.o
+intlevel0 0 0 ENTRY 0 functab C:\Users\jonam\AppData\Local\Temp\sa0g.o
+intlevel1 0 0 ENTRY 0 functab C:\Users\jonam\AppData\Local\Temp\sa0g.o
+intlevel2 0 0 ENTRY 0 functab C:\Users\jonam\AppData\Local\Temp\sa0g.o
+intlevel3 0 0 ENTRY 0 functab C:\Users\jonam\AppData\Local\Temp\sa0g.o
+intlevel4 0 0 ENTRY 0 functab C:\Users\jonam\AppData\Local\Temp\sa0g.o
+intlevel5 0 0 ENTRY 0 functab C:\Users\jonam\AppData\Local\Temp\sa0g.o
 __LbssCOMMON 0 0 ABS 0 bssCOMMON -
 _OSCCONbits 8F 0 ABS 0 - dist/default/production\Lab1.X.production.o
 wtemp0 7E 0 ABS 0 - dist/default/production\Lab1.X.production.o
@@ -276,8 +276,8 @@ _display 2A0 0 CODE 0 text7 dist/default/production\Lab1.X.production.o
 __Lmaintext 0 0 ABS 0 maintext -
 __end_of_conADC 2A0 0 CODE 0 text4 dist/default/production\Lab1.X.production.o
 swap_nib@n 35 0 BANK0 1 cstackBANK0 dist/default/production\Lab1.X.production.o
-___stackhi 0 0 ABS 0 - C:\Users\jonam\AppData\Local\Temp\sjds.o
-___stacklo 0 0 ABS 0 - C:\Users\jonam\AppData\Local\Temp\sjds.o
+___stackhi 0 0 ABS 0 - C:\Users\jonam\AppData\Local\Temp\sa0g.o
+___stacklo 0 0 ABS 0 - C:\Users\jonam\AppData\Local\Temp\sa0g.o
 __size_of_setup 0 0 ABS 0 - dist/default/production\Lab1.X.production.o
 __HnvCOMMON 0 0 ABS 0 nvCOMMON -
 start_initialization 22 0 CODE 0 cinit dist/default/production\Lab1.X.production.o
@@ -286,7 +286,7 @@ _TRISBbits 86 0 ABS 0 - dist/default/production\Lab1.X.production.o
 __pcstackBANK0 30 0 BANK0 1 cstackBANK0 dist/default/production\Lab1.X.production.o
 __end_of_valor_ADC 2BE 0 CODE 0 text1 dist/default/production\Lab1.X.production.o
 __size_of_valor_ADC 0 0 ABS 0 - dist/default/production\Lab1.X.production.o
-___int_sp 0 0 STACK 2 stack C:\Users\jonam\AppData\Local\Temp\sjds.o
+___int_sp 0 0 STACK 2 stack C:\Users\jonam\AppData\Local\Temp\sa0g.o
 __Hbank0 0 0 ABS 0 bank0 -
 __Hbank1 0 0 ABS 0 bank1 -
 __Hbank2 0 0 ABS 0 bank2 -
@@ -336,7 +336,7 @@ _conADC 286 0 CODE 0 text4 dist/default/production\Lab1.X.production.o
 __end_of_isr 138 0 CODE 0 text5 dist/default/production\Lab1.X.production.o
 __Lintentry 8 0 CODE 0 intentry -
 swap_nib@num 34 0 BANK0 1 cstackBANK0 dist/default/production\Lab1.X.production.o
-reset_vec 0 0 CODE 0 reset_vec C:\Users\jonam\AppData\Local\Temp\sjds.o
+reset_vec 0 0 CODE 0 reset_vec C:\Users\jonam\AppData\Local\Temp\sa0g.o
 __pdataBANK0 20 0 BANK0 1 dataBANK0 dist/default/production\Lab1.X.production.o
 __end_ofi1_valor_ADC 2C6 0 CODE 0 text6 dist/default/production\Lab1.X.production.o
 _PIE1bits 8C 0 ABS 0 - dist/default/production\Lab1.X.production.o

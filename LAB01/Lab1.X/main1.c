@@ -2,7 +2,7 @@
  * File:   main1.c
  * Author: Jonathan Menendez, 18023
  * Enlace Video: https://youtu.be/4Wh5qyne0No
- * Enlace Github: 
+ * Enlace Github: https://github.com/men18023/Digital2/tree/main/LAB01
  * Created on 18/07/2021
  */
 
